@@ -1,0 +1,15 @@
+{
+  "name": "willdurand-nodejs",
+  "version": "1.6.6",
+  "author": "William Durand",
+  "summary": "This module allows to install Node.js and NPM.",
+  "license": "MIT",
+  "source": "",
+  "project_page": null,
+  "issues_url": null,
+  "description": "This module allows to install Node.js and NPM.",
+  "dependencies": [
+    {"name":"puppetlabs/stdlib","version_requirement":">=3.2.1"},
+    {"name":"maestrodev/wget","version_requirement":">=1.2.0"}
+  ]
+}
